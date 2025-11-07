@@ -58,6 +58,35 @@ Archivo: [ejercicios_avanzados_comprehensions_lambdas.ipynb](./ejercicios_avanza
 
 ---
 
+## Ejercicios adicionales: Funciones, Texto, Sensores y Análisis de Datos
+
+Este notebook incluye 13 ejercicios resueltos paso a paso, desde funciones básicas hasta procesamiento de texto, validación de sensores y análisis de datasets tipo Data Science.
+
+📘 **Archivo:** [ejercicios_funciones_varios.ipynb](./ejercicios_funciones_varios.ipynb)
+
+### Contenido
+1. **Funciones básicas:** suma, producto, palíndromos, pangramas, ordenación de palabras.  
+2. **Manipulación de cadenas:** eliminación de duplicados, conteo de letras y dígitos, frecuencia de palabras.  
+3. **Generación de combinaciones:** creación de oraciones con listas múltiples.  
+4. **Clasificación geométrica:** detección de cuadrantes y octantes en el espacio.  
+5. **Procesamiento de texto con enfoque IA:**  
+   - Limpieza de texto y eliminación de ruido.  
+   - Cálculo de frecuencias, detección de hashtags, conteo de mayúsculas.  
+   - Identificación de comentarios positivos.  
+6. **Validación de datos de sensores:** detección de errores, promedio, conversión de unidades.  
+7. **Análisis de ventas (Data Science):**  
+   - Ingresos totales y por categoría.  
+   - Productos premium y de baja rotación.  
+   - Ticket promedio y segmentación de productos.
+
+Cada ejercicio incluye:
+- Enunciado claro.  
+- Implementación con funciones bien documentadas.  
+- Ejemplos de ejecución.  
+- Comentarios explicativos en código.
+
+---
+
 ## Cómo usar este repositorio
 
 1. Clona el repositorio
