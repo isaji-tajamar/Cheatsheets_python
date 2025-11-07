@@ -26,7 +26,7 @@ Incluye:
 ### 1. Cheatsheet General de Python
 Sintaxis básica, tipos de datos, operadores, estructuras de control, funciones, POO, manejo de errores y módulos estándar.
 
-Archivo: [python_cheatsheet_general_full.md](./python_cheatsheet_general_full.md)
+Archivo: [python_cheatsheet_general.md](./python_cheatsheet_general.md)
 
 ---
 
